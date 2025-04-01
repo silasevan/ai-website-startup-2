@@ -22,29 +22,23 @@ This project aims to develop an AI startup website that provides information abo
 
 ### 4. Pull Requests & Merging
 - Tom and Jerry created pull requests to merge their changes into the main branch.
-- The pull requests were reviewed and approved before merging.
-- Example PR: [Insert PR link here]
 
-### 5. Conflict Resolution
-- If merge conflicts arose, they were resolved manually.
-- Steps taken:
-  - Identified conflicting lines.
-  - Edited the files to retain the correct changes.
-  - Committed the resolved version with `git commit -m "Resolved merge conflict"`
-- Example conflict resolution: [Insert screenshot]
 
 ## Visual Evidence
 Attach the following screenshots:
 - <img src='./img/Creating the repo.png'>
-- Screenshot of branch creation by Tom and Jerry.
-- Screenshot of updated files and commit history.
-- Screenshot of pull requests and approvals.
-- Screenshot of merge conflicts and resolution (if applicable).
+- <img src='./img/tom branch.png'>
+<img src='./img/creating jerry feature.png'>
+<img src='./img/Pull request from tom.png'>
+<img src='./img/add jerry contact.png'>
+<img src='./img/Push jerry work.png'>
+<img src='./img/change to main branch.png'>
+<img src='./img/push tom work.png'>
 
 ## Repository Links
-- Repository: https://github.com/silasevan/ai-website-startup-2.git
-- Pull Requests: [Insert relevant PR links]
-- Branches: [List active branches]
+- Branches: https://github.com/silasevan/ai-website-startup-2
+            https://github.com/silasevan/ai-website-startup-2/tree/jerry-feature
+            https://github.com/silasevan/ai-website-startup-2/tree/tom-feature
 
 ## Conclusion
 This project follows a structured GitHub workflow demonstrating collaboration between Tom and Jerry. It includes proper branch management, meaningful commits, pull requests, and conflict resolution, fulfilling the instructor's requirements.
